@@ -1,0 +1,6 @@
+assertpy
+pytest
+selenium
+requests
+pytest-json-report
+pytest-html
